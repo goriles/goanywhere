@@ -2,23 +2,23 @@
 # These owners will be requested for review when someone opens a pull request.
 
 # Default owner for everything in the repo
-* @riceriley59
+* @rice-riley
 
 # Core parsing and types
-/internal/core/ @riceriley59
+/internal/core/ @rice-riley
 
 # Plugin implementations
-/plugins/ @riceriley59
+/plugins/ @rice-riley
 
 # CLI
-/internal/cli/ @riceriley59
-/cmd/ @riceriley59
+/internal/cli/ @rice-riley
+/cmd/ @rice-riley
 
 # CI/CD and build configuration
-/.github/ @riceriley59
-/Makefile @riceriley59
-/deps.mk @riceriley59
+/.github/ @rice-riley
+/Makefile @rice-riley
+/deps.mk @rice-riley
 
 # Documentation
-/docs/ @riceriley59
-/*.md @riceriley59
+/docs/ @rice-riley
+/*.md @rice-riley
